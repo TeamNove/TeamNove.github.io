@@ -9,8 +9,9 @@ title:               Team Nove
 tagline:             ''
 description:         'Course Project for COGS 121 Spring 2015 at UCSD'
 url:                 https://teamnove.github.io/
-baseurl:             ''
+baseurl:             ""
 paginate:            5
+permalink:           /:title/
 
 # About/contact
 author:
