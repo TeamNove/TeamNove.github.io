@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Team Nove
+tagline:             ''
+description:         'Course Project for COGS 121 Spring 2015 at UCSD'
+url:                 https://teamnove.github.io/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Timothy Nguyen
+  url:
+  email:
+
+# Custom vars
+# version:             1.0.0
